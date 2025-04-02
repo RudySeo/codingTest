@@ -1,5 +1,3 @@
-package week02;
-
 import java.util.*;
 
 class 두개뽑아서더하기 {

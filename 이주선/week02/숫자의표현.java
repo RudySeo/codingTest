@@ -1,5 +1,3 @@
-package week02;
-
 class 숫자의표현 {
     public int solution(int n) {
         int answer = 0;

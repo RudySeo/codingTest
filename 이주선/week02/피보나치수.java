@@ -1,5 +1,3 @@
-package week02;
-
 class 피보나치수 {
     public int solution(int n) {
         int[] dp = new int[100001];

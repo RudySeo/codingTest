@@ -1,5 +1,3 @@
-package week01;
-
 class TimeNeededToBuyTickets {
     public int timeRequiredToBuy(int[] tickets, int k) {
         int time = 0;
