@@ -23,3 +23,4 @@ def solution(progresses, speeds):
     answer.append(count)
     
     return answer
+
