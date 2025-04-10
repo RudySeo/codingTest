@@ -34,6 +34,18 @@
 
 ---
 
+### 🏗 힙 (Heap)
+
+| 번호 | 문제명 | 링크 | 주요 개념 |
+|------|--------|------|------------|
+| 1 | 더 맵게 | [🔗 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | 최소 힙, 우선순위 큐 |
+| 2 | 이중 우선순위 큐 | [🔗 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 최소 힙, 최대 힙 |
+| 3 | 디스크 컨트롤러 | [🔗 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 최소 힙, 그리디 |
+| 4 | K번째 수 | [🔗 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | 정렬, 슬라이싱 |
+| 5 | H-Index | [🔗 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | 정렬, 조건 탐색 |
+
+---
+
 ## 💡 사용 기술
 
 - Python 3.x || Java
