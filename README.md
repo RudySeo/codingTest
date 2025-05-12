@@ -4,12 +4,6 @@
 > 문제 출처: [프로그래머스](https://programmers.co.kr)
 
 ---
-
-
-
-
-## 📌 문제 분류
-
 ### 🧮 배열 & 리스트
 
 | 번호 | 문제명 | 링크 | 주요 개념 |
@@ -19,6 +13,7 @@
 | 3 | 숫자의 표현 | [🔗 바로가기](https://programmers.co.kr/learn/courses/30/lessons/12924) | 수학, 투 포인터 |
 | 4 | 두 개 뽑아서 더하기 | [🔗 바로가기](https://programmers.co.kr/learn/courses/30/lessons/68644) | 브루트포스, Set |
 | 5 | 연속 부분 수열 합의 개수 | [🔗 바로가기](https://programmers.co.kr/learn/courses/30/lessons/43162) | 슬라이딩 윈도우, Set |
+| 6 | K번째 수 | [🔗 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | 정렬, 슬라이싱 |
 
 ---
 
@@ -46,7 +41,6 @@
 
 ---
 
-
 ### 🔗 해시
 
 | 번호 | 문제명 | 링크 | 주요 개념 |
@@ -63,6 +57,29 @@
 
 ---
 
+### 🔁 동적 계획법 (DP)
+
+| 번호 | 문제명 | 링크 | 주요 개념 |
+|------|--------|------|------------|
+| 1 | 정수 삼각형 | [🔗 바로가기](https://career.programmers.co.kr/learn/courses/30/lessons/43105) | DP, 누적 최댓값 계산 |
+
+---
+
+### 🔍 이진 탐색
+
+| 번호 | 문제명 | 링크 | 주요 개념 |
+|------|--------|------|------------|
+| 1 | 공유기 설치 | [🔗 바로가기](https://www.acmicpc.net/problem/2110) | 매개 변수 탐색, 정렬 |
+
+---
+
+### 🧭 그래프 탐색
+
+| 번호 | 문제명 | 링크 | 주요 개념 |
+|------|--------|------|------------|
+| 1 | 순위 | [🔗 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | 플로이드-워셜, 연결성 판별 |
+
+---
 ## 💡 사용 기술
 
 - Python 3.x || Java
