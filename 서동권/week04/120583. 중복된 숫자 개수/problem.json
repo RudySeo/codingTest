@@ -1,0 +1,29 @@
+{
+  "source": "PROGRAMMERS",
+  "id": "120583",
+  "title": "중복된 숫자 개수",
+  "description": "<p>정수가 담긴 배열 <code>array</code>와 정수 <code>n</code>이 매개변수로 주어질 때, <code>array</code>에 <code>n</code>이 몇 개 있는 지를 return 하도록 solution 함수를 완성해보세요.</p>\n\n<hr>\n\n<h5>제한사항</h5>\n\n<ul>\n<li>1 ≤ <code>array</code>의 길이 ≤ 100</li>\n<li>0 ≤ <code>array</code>의 원소 ≤ 1,000</li>\n<li>0 ≤ <code>n</code> ≤ 1,000</li>\n</ul>\n\n<hr>\n\n<h5>입출력 예</h5>\n<table class=\"table\">\n        <thead><tr>\n<th>array</th>\n<th>n</th>\n<th>result</th>\n</tr>\n</thead>\n        <tbody><tr>\n<td>[1, 1, 2, 3, 4, 5]</td>\n<td>1</td>\n<td>2</td>\n</tr>\n<tr>\n<td>[0, 2, 3, 4]</td>\n<td>1</td>\n<td>0</td>\n</tr>\n</tbody>\n      </table>\n<hr>\n\n<h5>입출력 예 설명</h5>\n\n<p>입출력 예 #1</p>\n\n<ul>\n<li>[1, 1, 2, 3, 4, 5] 에는 1이 2개 있습니다.</li>\n</ul>\n\n<p>입출력 예 #2</p>\n\n<ul>\n<li>[0, 2, 3, 4] 에는 1이 0개 있습니다.</li>\n</ul>",
+  "testCases": [
+    {
+      "input": "[1, 1, 2, 3, 4, 5]\n1",
+      "expectedOutput": "2",
+      "actualOutput": "",
+      "passed": null
+    },
+    {
+      "input": "[0, 2, 3, 4]\n1",
+      "expectedOutput": "0",
+      "actualOutput": "",
+      "passed": null
+    }
+  ],
+  "timeLimit": "",
+  "memoryLimit": "",
+  "difficulty": "Lv.0",
+  "parameterNames": [
+    "array",
+    "n"
+  ],
+  "initialCode": "",
+  "contestProbId": ""
+}
